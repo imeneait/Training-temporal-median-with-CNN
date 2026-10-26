@@ -1,4 +1,4 @@
-# The repository contains one major aspects of Deepfake PFE : Use temporal median in Training 
+# Use temporal median in Training 
 
 ## Overview
 
